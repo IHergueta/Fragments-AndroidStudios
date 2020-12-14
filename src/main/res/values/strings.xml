@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica 4</string>
+    <string name="frag1">Fragmento #1</string>
+    <string name="frag2">Fragmento #2</string>
+    <string name="frag3">Fragmento #3</string>
+    <string name="frag4">Fragmento #4</string>
+</resources>
